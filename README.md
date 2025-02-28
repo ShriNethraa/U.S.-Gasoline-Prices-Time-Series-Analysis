@@ -2,8 +2,22 @@
 
 **Tools and Skills Used:** R Studio, Time Series Analysis, Forecasting, Statistical Modeling
 
-## Overview
-In this project, I analyzed monthly U.S. gasoline prices from 1993 to 2024, applying time series analysis techniques to identify long-term trends, seasonality, and to forecast future prices. 
-Using R, I cleaned and transformed the data into a structured time series, checked for stationarity, and utilized ARIMA modeling for accurate forecasting. I also decomposed the time series to uncover seasonal patterns, enhancing insights into historical fluctuations in gasoline prices.
+## Objective: 
+To analyze the U.S. gasoline prices from 1993 to 2024, identify long-term trends and seasonality, 
+and forecast future prices using time series analysis techniques in R Studio.
 
+## Process:
+**1. Data Cleaning & Transformation:** Cleaned and transformed the dataset into a structured 
+time series format suitable for analysis.
+**2. Stationarity Check:** Performed tests to check for stationarity in the time series data.
+**3. ARIMA Modeling:** Utilized ARIMA (AutoRegressive Integrated Moving Average) modeling for 
+accurate forecasting of gasoline prices.
+**4. Time Series Decomposition:** Decomposed the time series to identify and analyze seasonal 
+patterns and trends.
+**5. Statistical Analysis:** Applied various statistical modeling techniques to understand 
+historical fluctuations in gasoline prices.
 
+## Result: 
+The analysis identified key trends and seasonal patterns in gasoline prices, providing a comprehensive 
+understanding of historical fluctuations. The ARIMA model delivered accurate forecasts for future gasoline 
+prices, helping to predict market trends effectively.
