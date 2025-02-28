@@ -9,11 +9,15 @@ and forecast future prices using time series analysis techniques in R Studio.
 ## Process:
 **1. Data Cleaning & Transformation:** Cleaned and transformed the dataset into a structured 
 time series format suitable for analysis.
+
 **2. Stationarity Check:** Performed tests to check for stationarity in the time series data.
+
 **3. ARIMA Modeling:** Utilized ARIMA (AutoRegressive Integrated Moving Average) modeling for 
 accurate forecasting of gasoline prices.
+
 **4. Time Series Decomposition:** Decomposed the time series to identify and analyze seasonal 
 patterns and trends.
+
 **5. Statistical Analysis:** Applied various statistical modeling techniques to understand 
 historical fluctuations in gasoline prices.
 
